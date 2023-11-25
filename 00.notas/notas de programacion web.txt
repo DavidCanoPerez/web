@@ -1,0 +1,207 @@
+
+
+paginas de aprendizaje
+	https://www.w3schools.com/html/
+	https://www.makigas.es/
+	https://thevalleyofcode.com/
+
+videotutoriales
+	html y css basico
+		https://www.youtube.com/watch?v=rr2H086z16s&list=PLPl81lqbj-4LKo66cEts5yC_AjOvqKptm&index=1
+	online estatica gratis
+		https://www.youtube.com/watch?v=XpSqjRtxTYk
+	html y css a partir de diseño web
+		https://www.youtube.com/watch?v=xqkMgdris50&list=PLDllzmccetSMLPnBO8HPm3z7Zs0QKwf2O
+	curso lenguaje js
+		https://www.youtube.com/watch?v=ivdTnPl1ND0
+	django
+		https://www.youtube.com/watch?v=ydlwzwOUkyE&list=PLkVpKYNT_U9cl3hhVg_ROOlSY33uuBWZh
+
+paginas de plantillas html (free web html templates)
+	https://html5up.net/
+		https://html5up.net/striped
+
+	https://www.templatemonster.com/free-maintenance-services-templates/
+		https://demo.templatemonster.com/demo/206032.html
+		https://demo.templatemonster.com/demo/206033.html
+		https://demo.templatemonster.com/demo/206030.html
+
+hosting
+	https://www.netlify.com/
+		para paginas estaticas
+
+arquitectura de una aplicación web
+	browser/navegador: firefox, IE, chrome
+	red
+		intranet
+		internet
+	protocolo HTTP (Hypertext transfer protocol)
+	servidor web
+		apache
+		ISS
+			Internet Information Services o IIS​ es un servidor web y un conjunto de servicios para el sistema operativo Microsoft Windows.
+		tomcat
+	servidores de bases de datos
+		oracle
+		mySQL
+
+esquema web
+	frontend / lenguaje en el cliente
+		html
+			estructura
+		css (cascading style sheets)
+			forma
+			color
+			alineacion
+		javascript
+			interacciones
+			validaciones
+			se pueden utilizar multitud de librerias
+		otros como flash
+	backend: procesos ejecutados en sofware y maquina remota. Funciones de procesamiento y almacenamiento. 
+	velocidad o tiempo de respuesta, seguridad, serialización, escalabilidad 
+		servidor físico / cloud-nube 
+		SO y software del servidor
+			servidor linux
+			servidor windows = ISS
+			servidores en la nube, ej. firebase
+		docker
+			Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, 
+			proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones
+		frameworks y lenguaje de programacion
+			framework
+				Estructura conceptual y tecnologica de soporte definida, normalmente con 
+				artefactos o módulos de software concreto, con base en la cual otro proyecto 
+				de software puede ser organizado y desarrollado
+		bases de datos
+
+php
+	lenguaje de programacion para sitios web
+	info y tutoriales
+		https://www.php.net/manual/es/indexes.examples.php
+
+frameworks de java para la web
+	Spring Framework
+		inyección de dependencias, la cual permite la unión, el mantenimiento y la reutilización de clases complejas.
+	java server faces
+	tapestry
+	struts
+		codigo abierto y libre
+		conocido hoy dia como Apache Struts
+	open xava
+	stripes
+	wicket
+	GWT
+	Seam
+frameworks web
+	Laravel
+	Django 
+		de código abierto, escrito y utilizado desde python
+	Flask
+	ExpressJS
+		escrito en JavaScript 
+		de código abierto 
+		totalmente gratuito
+	Ruby on Rails
+	Nest.js
+	Meteor
+	Angular
+		basado en el lenguaje JavaScript y desarrollado en TypeScript por los programadores de Google
+	Symfony
+		para aplicaciones web en PHP
+		codigo abierto
+		compatible con gran cantidad de gestores de bases de datos y con todos los sistemas operativos. 
+		Es uno de los frameworks más fáciles de instalar y de usar.
+	Phalcon
+		de código abierto para PHP con extensión C
+		ejecución veloz, oportuna gestión de activos, seguridad óptima, 
+		un práctico cargador universal automático y una memoria eficiente.
+	Zend
+		codigo abierto
+		basado en PHP
+framework de windows
+	ASP.NET
+		de uso en ambiente microsoft
+	
+librerias JavaScript
+	react.js
+		mas que una libreria es una biblioteca Javascript 
+		código abierto 
+		diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página
+	jquerry
+		https://jquery.com/
+		biblioteca multiplataforma de JavaScript rápida, pequeña y rica en funciones. 
+		permite simplificar la manera de interactuar con los documentos HTML, el manejo de eventos, la animación, manipular el árbol DOM, 
+		manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web
+
+ajax
+	acrónimo de Asynchronous JavaScript And XML, 
+	técnica de desarrollo web para crear aplicaciones web asíncronas. 
+	Estas aplicaciones se ejecutan en el cliente, es decir, en el navegador de los usuarios mientras se mantiene la comunicación asíncrona con el servidor en segundo plano.
+	Ajax se compone de las siguientes tecnologías:
+		XHTML y CSS para presentar información.
+		DOM (Document Object Model - modelo de objetos de documento) para visualizar e interactuar de forma dinámica la información presentada.
+		El objeto XMLHttpRequest para manipular los datos de forma asíncrona con el servidor web.
+		XML, HTML y XSLT para el intercambio y la manipulación de datos.
+		Se visualiza JavaScript para enlazar solicitudes e información de datos.
+
+node.js
+	Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje 
+	de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
+	Sirve para crear sitios web dinámicos muy eficientes, escritos con el lenguaje de programación JavaScript. 
+	Normalmente, los desarrolladores se decantan por este entorno de ejecución cuando buscan que los procesos se ejecuten de forma ágil y 
+	sin ningún tipo de bloqueo cuando las conexiones se multiplican
+
+	https://nodejs.org/en
+
+	como instalar en win
+		comprobar que no se tiene instalado node ni npm
+			node -v
+			npm -v
+		descargar version lts con npm de https://nodejs.org/en
+		el propio instalador agrega variables al path del sistema
+		no marcado Automatically install the necessary tools. Chocolatery, python, visual studio build tools 
+	extensiones para visual studio code
+		Node.js Extension Pack
+		IntelliSense for CSS class names in
+		Live Server (Five Server)
+
+XAMPP
+	entorno de desarrollo php
+	reune un conjunto de herramientas
+		Apache
+			The Apache HTTP Server Project
+			El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix, Microsoft Windows, 
+			Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616
+		MariaDB
+		PHP
+		Perl
+	alternativas a xampp	https://tinystm.org/17-best-alternatives-xampp-server-free-download
+
+Firebase
+	https://es.wikipedia.org/wiki/Firebase
+	Base de datos de google en la nube, proporciona servidores para las aplicaciones web
+	Se puede programar desde diferetnes lenguajes como: java, c++, js, unity y otros
+ 
+	Plataforma para el desarrollo de aplicaciones web y aplicaciones móviles lanzada en 2011 y adquirida por Google en 2014.1​
+	Es una plataforma ubicada en la nube, integrada con Google Cloud Platform, que usa un conjunto de herramientas para la 
+	creación y sincronización de proyectos.
+	ventajas:
+		- Sincronizar fácilmente los datos de sus proyectos sin tener que administrar conexiones o escribir lógica de 
+		sincronización compleja.
+		- Usa un conjunto de herramientas multiplataforma: se integra fácilmente para plataformas web como en 
+		aplicaciones móviles. Es compatible con grandes plataformas, como IOS, Android, aplicaciones web, Unity y C++.
+		- Usa la infraestructura de Google y escala automáticamente para cualquier tipo de aplicación, desde las más 
+		pequeñas hasta las más potentes.
+		- Crea proyectos sin necesidad de un servidor: Las herramientas se incluyen en los SDK para los dispositivos 
+		móviles y web, por lo que no es necesario la creación de un servidor para el proyecto.
+		- Firebase dota a sus usuarios de una gran documentación2​ para crear aplicaciones usando esta plataforma. 
+		Aparte de esto, ofrece soporte gratuito mediante correo electrónico para todos sus usuarios, y además sus 
+		desarrolladores participan activamente en plataformas como Github y StackOverflow, así como poseen un canal de 
+		Youtube​ explicando el funcionamiento de varias de sus herramientas.
+	Gracias a todas estas funcionalidades, cualquier desarrollador puede combinar y adaptar la plataforma a medida de sus necesidades.
+
+
+
+
+

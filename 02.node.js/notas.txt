@@ -1,0 +1,8 @@
+
+visual studio code puede mostrar salidas de console.log
+desde archivos js sin ninguna etiqueta html
+a traves de node.js
+
+	terminal, new terminal, 
+	node .\index.js
+
